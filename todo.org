@@ -1,0 +1,7 @@
+* Architecture [0/2]
+** TODO Figure out performance difference between using libcurl bindings and hyper implementation for GET requests
+** TODO Allow passing arguments for different options
+
+* Reporting [0/2]
+** TODO Color highlighting
+** TODO HTML reports
